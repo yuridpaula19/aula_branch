@@ -7,4 +7,19 @@
 h1{
     color: antiquewhite;
     background-color: black;
+    text-align: center;
+}
+
+h1:hover{
+    color: black;
+    background-color: antiquewhite;
+}
+
+p{
+    color: cornflowerblue;
+}
+
+h2{
+    text-align: center;
+    color: darkslateblue;
 }
